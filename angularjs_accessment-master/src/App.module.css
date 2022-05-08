@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.app {
+    /* background-attachment: fixed; */
+    overflow-x: hidden;
+    /* font-family: 'Bangers', cursive;
+    font-family: 'Inter', sans-serif; */
+    background-color:  rgb(226, 232, 240);
+}
+* {
+    /* border: 1px solid red; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}

@@ -1,0 +1,16 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* background-color: #91919155; */
+}
+.searchInput {
+  caret-color: #91919155;
+}
+.contributors {
+  overflow-y: scroll;
+  height: 15rem;
+}
